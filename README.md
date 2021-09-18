@@ -1,2 +1,1 @@
-# generic
 # gac_heroku
